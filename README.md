@@ -3,7 +3,8 @@
 ## Socket 프로그래밍
   
 ### C#
-- [SuperSocketLite](https://github.com/jacking75/SuperSocketLite ) - 라이브러리  
+- 라이브러리
+    - [SuperSocketLite](https://github.com/jacking75/SuperSocketLite )   
   
 
 
@@ -11,6 +12,10 @@
 - [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf )
 - [YOUTUBE C++ Korea 제6회 세미나 - 채팅 서버 개발로 알아보는 C++의 기능들](https://youtu.be/JxejgUKTViQ )
 - [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html )  
+- [Linux 소켓 프로그래밍의 5가지 함정](https://docs.google.com/document/d/e/2PACX-1vRJNFor6dsmIjrEuyU-Y5J1YFrdL-7b6n3MLChvk_kieqh4WZKdNWot6iicaRfIA0QYLcXuGwMnvXJn/pub )
+- [무서운 SIGPIPE 소켓 프로그래밍의 함정](https://docs.google.com/document/d/e/2PACX-1vSR5CZL4bOzIHaSgiqmz1laD8XvHsL7TH3XRt-DZgZ048OzehawXuxwAjYPX_WQi2iQse-u4SenifEG/pub )
+- 라이브러리
+    - [Generic Callback Manager](https://docs.google.com/document/d/e/2PACX-1vSnIx0eNLRbTk0f8DGow3x4vzL1rvIWT6EBIf1B4jxtc7tZkpb_5lnywKqWdk2LOLfP02JdzMOZgEK8/pub )   
 
 
 ## 클라우드 
@@ -19,8 +24,11 @@
   
   
 ## Linux
+- [리눅스 얼마나 알아야할까? 이정도는 알고 있자!](https://docs.google.com/document/d/e/2PACX-1vT5lxY2rzJ12dKfNUa4ocx1cU-JMboaP26t4CE7BftRDjMCjMn4f-If1ZeKfeaJ4hz9cP0s3qFFlkRc/pub)
 - [WSL2 글모음](https://gist.github.com/jacking75/a4f3cb450bdf8ddfae15eaab58343cf5 )  
 - [언어 환경 관리는 *env 및 *vm 넘어서 mise 로](https://docs.google.com/document/d/e/2PACX-1vQze-3qj7CXOcSYvjZ25mnUXUSoPSLadVIEp6IbNhxB4ptrX89vNDftoJPlODYvG13Inlur1cH_qAB9/pub )
+- [Linux에서로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝](https://docs.google.com/document/d/e/2PACX-1vRogx51-sYEMl5P6b5ZFWQWMycYqOF86rAUJ0Pgb1g28xFK2r4upfLqBglXhsATGLdMbvKmSIGnzuzF/pub )
+- [RPS, RFS 설정에 의한 Linux 네트워크 성능 향상](https://docs.google.com/document/d/e/2PACX-1vRACO_vLdA3FY7cxtcRNv5-QyXExYRinGSIWjorsVt3gFh_qTbQ_d4KRfQgC0teZER5efcjDBCucTBl/pub )
   
 
 
