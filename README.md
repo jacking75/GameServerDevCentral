@@ -30,10 +30,14 @@
 - [Linux에서로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝](https://docs.google.com/document/d/e/2PACX-1vRogx51-sYEMl5P6b5ZFWQWMycYqOF86rAUJ0Pgb1g28xFK2r4upfLqBglXhsATGLdMbvKmSIGnzuzF/pub )
 - [RPS, RFS 설정에 의한 Linux 네트워크 성능 향상](https://docs.google.com/document/d/e/2PACX-1vRACO_vLdA3FY7cxtcRNv5-QyXExYRinGSIWjorsVt3gFh_qTbQ_d4KRfQgC0teZER5efcjDBCucTBl/pub )
   
+- [리눅스 사용 글 모음](https://gist.github.com/jacking75/7f45ed006cecaffd44b95049a5f8611c )
+- [리눅스 개발 글 모음](https://gist.github.com/jacking75/6984c4cc1af1190f55d8b38c7083063e )
+- [Docker 글 모음](https://gist.github.com/jacking75/9409d7c5b9fab9a7ef66b2050f40423f )  
 
 
 ## DB
-  
+- [DB 글 모음](https://gist.github.com/jacking75/a456ff34a8846b9438bc08956d67aaab  )
+    
 ### MySQL
 - 설치
     - [windows 설치](https://stormpy.tistory.com/m/45 )
@@ -63,6 +67,7 @@
         
   
 ### Redis 
+- [글 모음](https://gist.github.com/jacking75/5d9927851b22a539774301017e0cefd7)
 - [레디스 게이트](http://www.redisgate.com/redis/command/latency.php ) 기능 설명
 - [(영상) Redis 야무지게 사용하기](https://forward.nhn.com/2021/sessions/16 ) 
 - [Redis 글 모음](https://gist.github.com/jacking75/5d9927851b22a539774301017e0cefd7 ) 
@@ -91,5 +96,5 @@
 - [C++ Korea 제9회 세미나 - 유지보수 편하게 게임 서버 만들기 (허린)](https://www.youtube.com/watch?v=NiDbkG_Eqpo )
 - [System Design is About Tradeoffs](https://docs.google.com/document/d/e/2PACX-1vRGfnqxKy83IBU4n1E0hwH6mXHuyHeQjNOOzCoLByVpwaNlXWB0X7rcb_uSMZRjYs8F4zuUiToC0Ggc/pub )
 - [상위 6가지 부하 분산 알고리즘](https://docs.google.com/document/d/e/2PACX-1vTVYE1-8WXfFZyIwcQyrDOmBhQhymRliglUalotjeqTjiNUDB5z4XVCLcchzzZZ0M4yTufUM9G0BXB6/pub  )  
-  
+- [GitHub Copilot 글 모음](https://gist.github.com/jacking75/42a920ab42aadfa2d9d49fc533a233e5 )  
   
